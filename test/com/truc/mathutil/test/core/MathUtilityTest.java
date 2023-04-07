@@ -34,7 +34,7 @@ public class MathUtilityTest {
       assertEquals(6, MathUtil.getFactorial(3)); // hàm so sánh 3! == 6
       assertEquals(24, MathUtil.getFactorial(4)); // hàm so sánh 2 giá trị có giống nhau không
       assertEquals(120, MathUtil.getFactorial(5)); // hàm so sánh 2 giá trị có giống nhau không
-      assertEquals(720, MathUtil.getFactorial(6)); // hàm so sánh 2 giá trị có giống nhau không
+      assertEquals(720, MathUtil.getFactorial(5)); // hàm so sánh 2 giá trị có giống nhau không
 
    }
 
